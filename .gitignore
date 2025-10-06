@@ -1,0 +1,10 @@
+# Arquivo de variáveis de ambiente - NUNCA ENVIAR!
+.env
+
+# Arquivos de cache e de compilação do Python
+__pycache__/
+*.pyc
+
+# Pasta de ambiente virtual (se você usar)
+venv/
+.venv/
